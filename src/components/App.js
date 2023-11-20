@@ -10,3 +10,11 @@ function App() {
 }
 
 export default App;
+
+
+// App
+  // PokemonPage
+    // PkemonCollection
+        //PokemonCard
+    // PokemonForm
+    // Search
